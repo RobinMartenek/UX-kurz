@@ -1,0 +1,21 @@
+p {
+  color: red;
+}
+
+/* ID */
+#barevny {
+  color: greenyellow;
+}
+
+/* třída */
+.barva {
+  color: blue;
+}
+
+div {
+  background-color: gray;
+}
+
+span {
+  font-size: 24px;
+}

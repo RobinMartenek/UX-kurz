@@ -1,0 +1,37 @@
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 10px;
+}
+
+.jmeno {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.adresa {
+  font-size: 12px;
+}
+
+.tlf {
+  font-size: 12px;
+}
+.mail {
+  font-size: 12px;
+}
+
+.zvyraznit {
+  font-weight: bold;
+}
+
+div {
+  padding: 5px;
+  background-color: rgb(220, 220, 220);
+}
+
+.ramecek {
+  border-color: black;
+  border-radius: 10px;
+  width: 300px;
+  padding: 40px;
+}
